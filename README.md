@@ -1,5 +1,5 @@
 # bike-orders-data-cleaning
-kaggle link - https://www.kaggle.com/datasets/liyingiris90/bike-sales/discussion?sort=hotness
+kaggle link(for data) - https://www.kaggle.com/datasets/liyingiris90/bike-sales/discussion?sort=hotness
 
 Data Cleaning Process – Bike Sales Dataset
 
