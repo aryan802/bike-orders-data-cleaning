@@ -1,5 +1,6 @@
 # bike-orders-data-cleaning
 kaggle link - https://www.kaggle.com/datasets/liyingiris90/bike-sales/discussion?sort=hotness
+
 Data Cleaning Process – Bike Sales Dataset
 
 This document explains how we cleaned and prepared the Bike Sales dataset, which originally consisted of three raw CSV files:
