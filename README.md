@@ -6,9 +6,7 @@ Files
 
 Raw Data:
 
-orders.csv
-
-customers.csv
-
+orders.csv,
+customers.csv,
 products.csv
 
